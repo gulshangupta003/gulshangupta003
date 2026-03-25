@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-> *Quality-first engineer with 2+ years of SDET experience, now focused on building scalable full-stack applications. I bring a unique perspective to development — I understand what makes software fail, so I build it to last.*
+> *Software Engineer with 2+ years in test automation, now building full-stack applications with Java, Spring Boot, and React. I bring a rare combination — I can build it, test it, and ship it with confidence.*
 
 <br/>
 
