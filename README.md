@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/gulshangupta003/">
-  <img src="https://img.shields.io/badge/-Gulshan%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:gulshangupta003@gmail.com">
   <img src="https://img.shields.io/badge/-gulshangupta003-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -35,7 +35,7 @@
 - 🧪 &nbsp;Strong foundation in **test automation** across API, Web & Mobile
 - 🌍 &nbsp;Based in **Pune, India**
 - 🎓 &nbsp;**MCA** — JSPM's RSCOE, Pune &nbsp;|&nbsp; **BSc CS** — MIT Kothrud, Pune
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulshangupta003/) &nbsp;[linkedin.com/in/gulshangupta003](https://www.linkedin.com/in/gulshangupta003/)
+
 
 ---
 
