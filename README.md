@@ -214,7 +214,7 @@
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulshangupta003&hide_border=true&background=0d1117&stroke=0A66C2&ring=0A66C2&fire=00C853&currStreakLabel=0A66C2&sideLabels=0A66C2&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
+<img width="60%" src="https://streak-stats.demolab.com/?user=gulshangupta003&hide_border=true&background=0d1117&stroke=0A66C2&ring=0A66C2&fire=00C853&currStreakLabel=0A66C2&sideLabels=0A66C2&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
 
 <br/><br/>
 
