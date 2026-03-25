@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Backend+Engineer+%E2%80%A2+Quality-First+Mindset" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Full+Stack+Developer+%E2%80%A2+Quality-First+Mindset" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -26,12 +26,12 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-> *Quality-first engineer with 2+ years of SDET experience, now focused on building scalable backend systems and full-stack applications. I bring a unique perspective to development — I understand what makes software fail, so I build it to last.*
+> *Quality-first engineer with 2+ years of SDET experience, now focused on building scalable full-stack applications. I bring a unique perspective to development — I understand what makes software fail, so I build it to last.*
 
 <br/>
 
 - 🔧 &nbsp;**2+ years** as SDET → now building **full-stack applications**
-- 🎯 &nbsp;Focused on **backend engineering** with Java & Spring Boot
+- 🎯 &nbsp;Focused on **full-stack development** with Java, Spring Boot & React
 - 🧪 &nbsp;Strong foundation in **test automation** across API, Web & Mobile
 - 🌍 &nbsp;Based in **Pune, India**
 - 🎓 &nbsp;**MCA** — JSPM's RSCOE, Pune &nbsp;|&nbsp; **BSc CS** — MIT Kothrud, Pune
@@ -230,7 +230,7 @@
 |---|---|
 | 🔨 | Building full-stack apps with **Spring Boot** and **React** |
 | 📚 | Learning **system design** & **microservices architecture** |
-| 🎯 | Open to **Software Engineer** roles — backend / full-stack |
+| 🎯 | Open to **Software Engineer** roles — full-stack / backend |
 | 🧠 | Bringing a quality-first mindset to every line of code |
 
 ---
