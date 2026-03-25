@@ -35,6 +35,7 @@
 - 🧪 &nbsp;Strong foundation in **test automation** across API, Web & Mobile
 - 🌍 &nbsp;Based in **Pune, India**
 - 🎓 &nbsp;**MCA** — JSPM's RSCOE, Pune &nbsp;|&nbsp; **BSc CS** — MIT Kothrud, Pune
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulshangupta003/) &nbsp;[linkedin.com/in/gulshangupta003](https://www.linkedin.com/in/gulshangupta003/)
 
 ---
 
@@ -92,7 +93,7 @@
 <h3 align="center">🛒 FreshCo — E-commerce Backend</h3>
 
 <div align="center">
-  <a href="https://github.com/gulshangupta003/REPO_NAME">
+  <a href="https://github.com/gulshangupta003/FreshCo-Backend">
     <img src="https://img.shields.io/badge/VIEW_CODE-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
   </a>
 </div>
@@ -119,7 +120,7 @@
 <h3 align="center">📝 Blog REST API</h3>
 
 <div align="center">
-  <a href="https://github.com/gulshangupta003/REPO_NAME">
+  <a href="https://github.com/gulshangupta003/spring-boot-blog-rest-api">
     <img src="https://img.shields.io/badge/VIEW_CODE-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
   </a>
 </div>
@@ -148,7 +149,7 @@
 <h3 align="center">🔄 Cross-Platform Test Framework</h3>
 
 <div align="center">
-  <a href="https://github.com/gulshangupta003/REPO_NAME">
+  <a href="https://github.com/gulshangupta003/ONE-FOR-ALL">
     <img src="https://img.shields.io/badge/VIEW_CODE-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
   </a>
 </div>
@@ -175,7 +176,7 @@
 <h3 align="center">⚙️ API Automation Framework</h3>
 
 <div align="center">
-  <a href="https://github.com/gulshangupta003/REPO_NAME">
+  <a href="https://github.com/gulshangupta003/reqres-RestAssured-Maven-Framework">
     <img src="https://img.shields.io/badge/VIEW_CODE-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
   </a>
 </div>
