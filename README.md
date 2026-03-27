@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C853&height=200&section=header&text=Gulshan%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20SDET%20→%20SDE&descSize=18&descAlignY=55&descColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C853&height=200&section=header&text=Gulshan%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=I%20Build%20It%20%C2%B7%20I%20Test%20It%20%C2%B7%20I%20Ship%20It&descSize=18&descAlignY=55&descColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Full+Stack+Developer+%E2%80%A2+Quality-First+Mindset" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Selenium+%7C+RestAssured+%7C+Appium+%7C+WebdriverIO" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -26,16 +26,16 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-> *Software Engineer with 2+ years in test automation, now building full-stack applications with Java, Spring Boot, and React. I bring a rare combination — I can build it, test it, and ship it with confidence.*
+> *Software Engineer with 2+ years of experience. I build scalable applications with Java and Spring Boot, and I build the automation frameworks that make sure they work — across API, Web, and Mobile.*
 
 <br/>
 
-- 🔧 &nbsp;**2+ years** as SDET → now building **full-stack applications**
-- 🎯 &nbsp;Focused on **full-stack development** with Java, Spring Boot & React
-- 🧪 &nbsp;Strong foundation in **test automation** across API, Web & Mobile
+- 💻 &nbsp;**Development:** REST APIs with **Spring Boot**, **Spring Security**, **JWT**, **React**
+- 🧪 &nbsp;**Automation:** Test frameworks with **Selenium**, **RestAssured**, **Appium**, **WebdriverIO**
+- 🚀 &nbsp;Automated **70%** of test cases & reduced release cycles by **40%**
+- ⚙️ &nbsp;CI/CD integration with **GitHub Actions** & **Docker**
 - 🌍 &nbsp;Based in **Pune, India**
 - 🎓 &nbsp;**MCA** — JSPM's RSCOE, Pune &nbsp;|&nbsp; **BSc CS** — MIT Kothrud, Pune
-
 
 ---
 
@@ -43,28 +43,16 @@
 
 <div align="center">
 
-### ⚡ Backend
+### ⚡ Languages
 
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark" alt="Backend"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,ts,js,py&theme=dark" alt="Languages"/></a>
 </p>
 
-### 🎨 Frontend
+### 💻 Development
 
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" alt="Frontend"/></a>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases"/></a>
-</p>
-
-### ⚙️ DevOps & Tools
-
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,githubactions,git,maven,gradle,postman&theme=dark" alt="DevOps"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring,react,html,css,mysql,postgres,nodejs&theme=dark" alt="Development"/></a>
 </p>
 
 ### 🧪 Testing & Automation
@@ -74,8 +62,14 @@
   &nbsp;
   <img src="https://img.shields.io/badge/RestAssured-43B02A?style=for-the-badge&logo=java&logoColor=white" alt="RestAssured" height="48"/>
   <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" height="48"/>
-  <img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testcafe&logoColor=white" alt="TestNG" height="48"/>
   <img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO" height="48"/>
+  <img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testcafe&logoColor=white" alt="TestNG" height="48"/>
+</p>
+
+### ⚙️ CI/CD & DevOps
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,githubactions,git,maven,gradle,postman&theme=dark" alt="DevOps"/></a>
 </p>
 
 </div>
@@ -85,6 +79,8 @@
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
+
+### 💻 Development
 
 <table>
 <tr>
@@ -143,6 +139,11 @@
 
 </td>
 </tr>
+</table>
+
+### 🧪 Automation
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -209,12 +210,6 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gulshangupta003&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&icon_color=0A66C2&title_color=0A66C2&text_color=c9d1d9" alt="GitHub Stats"/>
-&nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshangupta003&layout=compact&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=c9d1d9" alt="Top Languages"/>
-
-<br/><br/>
-
 <img width="60%" src="https://streak-stats.demolab.com/?user=gulshangupta003&hide_border=true&background=0d1117&stroke=0A66C2&ring=0A66C2&fire=00C853&currStreakLabel=0A66C2&sideLabels=0A66C2&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
 
 <br/><br/>
@@ -229,10 +224,10 @@
 
 | | |
 |---|---|
-| 🔨 | Building full-stack apps with **Spring Boot** and **React** |
+| 💻 | Building full-stack apps with **Spring Boot** and **React** |
+| 🧪 | Building **test automation frameworks** in Java & TypeScript |
 | 📚 | Learning **system design** & **microservices architecture** |
-| 🎯 | Open to **Software Engineer** roles — full-stack / backend |
-| 🧠 | Bringing a quality-first mindset to every line of code |
+| 🎯 | Open to **SDET** & **Software Engineer** roles |
 
 ---
 
@@ -240,7 +235,7 @@
 
 ### 🤝 &nbsp;Let's Connect!
 
-**Building something interesting? I'd love to hear about it.**
+**Need someone who can build it AND make sure it works? Let's talk.**
 
 <br/>
 
