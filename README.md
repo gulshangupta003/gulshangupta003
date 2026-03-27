@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C853&height=200&section=header&text=Gulshan%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=I%20Build%20It%20%C2%B7%20I%20Test%20It%20%C2%B7%20I%20Ship%20It&descSize=18&descAlignY=55&descColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C853&height=200&section=header&text=Gulshan%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=I%20Build%20It%20%C2%B7%20I%20Automate%20It%20%C2%B7%20I%20Deliver%20It&descSize=18&descAlignY=55&descColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
 
@@ -7,16 +7,14 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/gulshangupta003/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="./assets/linkedin.png" alt="LinkedIn" height="40" width="40"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:gulshangupta003@gmail.com">
-  <img src="https://img.shields.io/badge/-gulshangupta003-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/gulshangupta003">
-  <img src="https://img.shields.io/badge/-gulshangupta003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="./assets/gmail.png" alt="Gmail" height="40" width="40"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=gulshangupta003&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -26,7 +24,7 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-> *Software Engineer with 2+ years of experience. I build scalable applications with Java and Spring Boot, and I build the automation frameworks that make sure they work — across API, Web, and Mobile.*
+> _Software Engineer with 2+ years of experience. I build scalable applications with Java and Spring Boot, and I build the automation frameworks that make sure they work — across API, Web, and Mobile._
 
 <br/>
 
@@ -206,6 +204,16 @@
 
 ---
 
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gulshangupta003&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
@@ -222,12 +230,12 @@
 
 ## 💡 &nbsp;What I'm Up To
 
-| | |
-|---|---|
-| 💻 | Building full-stack apps with **Spring Boot** and **React** |
-| 🧪 | Building **test automation frameworks** in Java & TypeScript |
-| 📚 | Learning **system design** & **microservices architecture** |
-| 🎯 | Open to **SDET** & **Software Engineer** roles |
+|     |                                                              |
+| --- | ------------------------------------------------------------ |
+| 💻  | Building full-stack apps with **Spring Boot** and **React**  |
+| 🧪  | Building **test automation frameworks** in Java & TypeScript |
+| 📚  | Learning **system design** & **microservices architecture**  |
+| 🎯  | Open to **SDET** & **Software Engineer** roles               |
 
 ---
 
@@ -235,10 +243,7 @@
 
 ### 🤝 &nbsp;Let's Connect!
 
-**Need someone who can build it AND make sure it works? Let's talk.**
-
 <br/>
-
 <a href="https://www.linkedin.com/in/gulshangupta003/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -247,7 +252,7 @@
   <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
+<br/>
 
 </div>
 
